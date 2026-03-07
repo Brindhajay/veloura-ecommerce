@@ -5,4 +5,4 @@ COPY . .
 RUN chmod +x mvnw
 RUN ./mvnw clean package -DskipTests
 
-CMD ["sh", "-c", "java -jar target/veloura-0.0.1-SNAPSHOT.jar --server.port=$PORT"]
+CMD ["sh", "-c", "java -jar target/veloura-0.0.1-SNAPSHOT.jar --server.port=10000"]
