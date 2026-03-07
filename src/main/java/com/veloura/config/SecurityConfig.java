@@ -43,9 +43,13 @@ public class SecurityConfig {
                         // PUBLIC APIs
                         .requestMatchers(
                                 "/api/auth/**",
+                                "/api/login/**",
+                                "/api/register/**",
                                 "/api/products/**",
+                                "/api/perfumes/**",
                                 "/api/categories/**",
-                                "/api/orders/**"   // ⭐ allow orders temporarily
+                                "/api/cart/**",
+                                "/api/orders/**"
                         ).permitAll()
 
                         // SWAGGER
