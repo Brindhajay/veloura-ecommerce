@@ -1,4 +1,4 @@
-Veloura – Full Stack Perfume E-Commerce Platform
+# **Veloura – Full Stack Perfume E-Commerce Platform**
 
 Veloura is a full-stack perfume e-commerce web application where users can explore luxury fragrances, search products, add them to cart, and place orders securely.
 
@@ -6,15 +6,15 @@ The application demonstrates a modern React + Spring Boot + MySQL architecture, 
 
 ---
 
-🌐 Live Demo
+## 🌐 Live Demo
 
 https://veloura-b0qg.onrender.com
 
 ---
 
-🧩 Tech Stack
+## 🧩 Tech Stack
 
-Frontend
+### Frontend
 
 - React (Vite)
 - JavaScript
@@ -22,7 +22,7 @@ Frontend
 - Axios
 - React Context API (Cart State Management)
 
-Backend
+### Backend
 
 - Java
 - Spring Boot
@@ -30,12 +30,12 @@ Backend
 - REST APIs
 - JWT Authentication
 
-Database
+### Database
 
 - MySQL
 - Railway Cloud Database
 
-DevOps / Deployment
+### DevOps / Deployment
 
 - Docker
 - Render Cloud Hosting
@@ -43,9 +43,9 @@ DevOps / Deployment
 
 ---
 
-⚙️ Features
+## ⚙️ Features
 
-User Features
+### User Features
 
 - Browse perfume products
 - View perfume details and images
@@ -58,7 +58,7 @@ User Features
 - Secure login & registration using JWT
 - Persistent cart data from backend
 
-Admin / System Features
+### Admin / System Features
 
 - Product inventory management
 - Stock management
@@ -70,7 +70,7 @@ Admin / System Features
 
 ---
 
-🏗️ System Architecture
+## 🏗️ System Architecture
 
 User Browser
 ↓
@@ -82,7 +82,7 @@ MySQL Database (Railway)
 
 ---
 
-📂 Project Structure
+## 📂 Project Structure
 
 veloura-ecommerce
 │
@@ -103,46 +103,56 @@ veloura-ecommerce
 
 ---
 
-📸 Screenshots
+## 📸 Screenshots
 
-Home Page
 
-<img width="1919" height="805" alt="image" src="https://github.com/user-attachments/assets/22f0f71f-ade9-44d2-9e72-1d4669aa5647" />
-<img width="1918" height="805" alt="image" src="https://github.com/user-attachments/assets/63c45eac-1004-461d-a773-1cbef7150f5e" />
-Displays available perfumes with search functionality.
+### Home Page
 
-Product Listing
+<img width="1916" height="810" alt="Screenshot 2026-03-08 041750" src="https://github.com/user-attachments/assets/f951cc70-020a-43ea-a2fc-d5fb885ff81b" />
 
-<img width="1919" height="800" alt="image" src="https://github.com/user-attachments/assets/c98b1a58-c32f-4b4d-a53c-0af84b1a7d06" />
-Perfume cards showing image, price, and add-to-cart option.
+<img width="1919" height="801" alt="Screenshot 2026-03-08 041832" src="https://github.com/user-attachments/assets/b5f602e1-30d5-4f38-8365-20bcfc472b1e" />
+_Displays available perfumes with search functionality.
+_
 
-Cart Page
+## Product Listing
 
-<img width="1918" height="801" alt="image" src="https://github.com/user-attachments/assets/8734d583-6281-44fe-8030-3f0dd4777d47" />
-Displays selected items with quantity and total order value.
+<img width="1917" height="802" alt="Screenshot 2026-03-08 041914" src="https://github.com/user-attachments/assets/1237cf00-6f1f-4e35-93f4-7e2cd570d9c9" />
+_Perfume cards showing image and add-to-cart option._
 
-Login / Register Page
 
-<img width="1919" height="665" alt="image" src="https://github.com/user-attachments/assets/c62adf26-66de-42ce-bbfb-71cd5e353f50" />
-Secure authentication using JWT.
+### Cart Page
 
-Database Table
+<img width="1916" height="801" alt="Screenshot 2026-03-08 042129" src="https://github.com/user-attachments/assets/f837b274-9e9f-41c4-8f38-25624991eecb" />
+_Displays selected items with quantity and total order value._
+
+
+### Login / Register Page
+
+<img width="1919" height="803" alt="Screenshot 2026-03-08 042020" src="https://github.com/user-attachments/assets/7a66be4b-9c5c-4e52-86ab-ef489f8cfcba" />
+
+<img width="1918" height="794" alt="Screenshot 2026-03-08 041952" src="https://github.com/user-attachments/assets/ab22b38f-9791-4626-b022-c9e37685b9f3" />
+_Secure authentication using JWT._
+
+
+### Database Table
 
 <img width="170" height="202" alt="image" src="https://github.com/user-attachments/assets/702222c4-2aa6-422d-a934-555fcbc6c18f" />
-MySQL database storing product inventory and stock.
 
-Deployment
+_MySQL database storing product inventory and stock._
 
-<img width="1915" height="797" alt="image" src="https://github.com/user-attachments/assets/14b2b551-b550-444e-8663-9f4f789e6278" />
-Application deployed successfully on Render.
+
+### Deployment
+
+<img width="1919" height="792" alt="Screenshot 2026-03-08 042150" src="https://github.com/user-attachments/assets/434aea1f-c3a1-4815-95a7-9c908ce6f877" />
+_Application deployed successfully on Render._
 
 ---
 
-🔐 Authentication
+## 🔐 Authentication
 
 The application uses JWT (JSON Web Tokens) for secure authentication.
 
-Features include:
+### Features include:
 
 - User registration
 - User login
@@ -151,16 +161,16 @@ Features include:
 
 ---
 
-📡 API Endpoints
+## 📡 API Endpoints
 
-Authentication
+### Authentication
 
 POST /auth/register
 POST /auth/login
 
 ---
 
-Products
+### Products
 
 GET /perfumes
 GET /perfumes/{id}
@@ -169,7 +179,7 @@ GET /perfumes/category/{categoryId}
 
 ---
 
-Cart
+### Cart
 
 GET /cart
 POST /cart/add
@@ -178,7 +188,7 @@ PUT /cart/update
 
 ---
 
-Orders
+### Orders
 
 POST /orders/place
 GET /orders
@@ -186,15 +196,15 @@ GET /orders/{orderId}
 
 ---
 
-🚀 Run Project Locally
+## 🚀 Run Project Locally
 
-Clone Repository
+#### Clone Repository
 
 git clone https://github.com/Brindhajay/veloura-ecommerce
 
 ---
 
-Backend Setup
+### Backend Setup
 
 cd backend
 mvn clean install
@@ -202,7 +212,7 @@ mvn spring-boot:run
 
 ---
 
-Frontend Setup
+### Frontend Setup
 
 cd frontend
 npm install
@@ -210,19 +220,19 @@ npm run dev
 
 ---
 
-🐳 Docker Setup
+### 🐳 Docker Setup
 
-Build Docker image:
+**Build Docker image:**
 
 docker build -t veloura-app .
 
-Run container:
+**Run container:**
 
 docker run -p 8080:8080 veloura-app
 
 ---
 
-🗄️ Database Setup
+### 🗄️ Database Setup
 
 1. Create MySQL database
 2. Configure credentials in "application.properties"
@@ -235,7 +245,7 @@ spring.datasource.password=your_password
 
 ---
 
-📈 Future Improvements
+## 📈 Future Improvements
 
 - Order tracking system
 - Admin analytics dashboard
@@ -245,13 +255,13 @@ spring.datasource.password=your_password
 
 ---
 
-👩‍💻 Author
+## 👩‍💻 Author
 
-Brindha Ajay
-Electronics and Communication Engineering
-Full-Stack Developer – Java | React | Spring Boot
+**Brindha Ajay**
+_Electronics and Communication Engineering._
+***Full-Stack Developer – Java | React | Spring Boot***
 
 ---
 
-⭐ If you like this project
-Give the repository a star⭐ on GitHub.
+**⭐ If you like this project
+Give the repository a star⭐ on GitHub.**
