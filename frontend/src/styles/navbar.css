@@ -1,0 +1,192 @@
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600&family=Poppins:wght@400;500;600&display=swap");
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  padding: 20px 50px;
+
+  background: linear-gradient(135deg, #f8f5ff, #efeaff);
+
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.08);
+
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+
+  font-family: Poppins;
+}
+
+.logo {
+  font-family: "Playfair Display", serif;
+
+  font-size: 38px;
+
+  font-weight: 800;
+
+  color: #6a4ba3;
+
+  letter-spacing: 1px;
+
+  text-decoration: none;
+}
+
+.nav-links {
+  display: flex;
+  align-items: center;
+  gap: 25px;
+}
+.nav-links a {
+  text-decoration: none;
+
+  color: #444;
+
+  font-size: 16px;
+
+  font-weight: 500;
+
+  transition: 0.3s;
+}
+
+.nav-links a:hover {
+  color: #7c5cff;
+
+  transform: translateY(-2px);
+}
+
+.cart-link {
+  position: relative;
+
+  font-size: 42px;
+}
+
+.cart-count {
+  position: absolute;
+
+  top: -6px;
+
+  right: -10px;
+
+  background: #7c5cff;
+
+  color: white;
+
+  font-size: 11px;
+
+  width: 18px;
+
+  height: 18px;
+
+  border-radius: 50%;
+
+  display: flex;
+
+  align-items: center;
+
+  justify-content: center;
+}
+
+.register-btn {
+  padding: 8px 16px;
+
+  background: linear-gradient(135deg, #7c5cff, #6a4ba3);
+
+  color: white !important;
+
+  border-radius: 20px;
+
+  font-size: 14px;
+}
+
+.register-btn:hover {
+  transform: scale(1.05);
+}
+.cart-count {
+  position: absolute;
+  top: -6px;
+  right: -10px;
+  background: #7c5cff;
+  color: white;
+  font-size: 11px;
+  width: 18px;
+  height: 18px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  animation: cartPop 0.35s ease;
+}
+
+@keyframes cartPop {
+  0% {
+    transform: scale(0.5);
+  }
+
+  60% {
+    transform: scale(1.3);
+  }
+
+  100% {
+    transform: scale(1);
+  }
+}
+.nav-search {
+  padding: 8px 16px;
+  border: 1px solid #cb94e7;
+  outline: none;
+  border-radius: 35px;
+  background: #f3efff;
+  font-size: 14px;
+  width: 400px;
+  transition: 0.3s;
+}
+
+.nav-search:focus {
+  box-shadow: 0 4px 12px rgba(124, 92, 255, 0.3);
+}
+
+.nav-search::placeholder {
+  color: #aaa;
+}
+.nav-search:hover {
+  box-shadow: 0 4px 12px rgba(124, 92, 255, 0.2);
+}
+.nav-search input {
+  width: 420px;
+  padding: 10px 18px;
+
+  border-radius: 25px;
+  border: 1px solid #ddd;
+
+  outline: none;
+
+  font-size: 14px;
+  font-family: Poppins;
+
+  background: white;
+
+  transition: all 0.25s ease;
+}
+.nav-search input:focus {
+  border-color: #7c5cff;
+  box-shadow: 0 6px 12px rgba(124, 92, 255, 0.3);
+}
+.nav-search input::placeholder {
+  color: #aaa;
+}
+.nav-search input:hover {
+  border-color: #7c5cff;
+  box-shadow: 0 4px 12px rgba(124, 92, 255, 0.2);
+}
+
+.search-icon {
+  font-size: 26px;
+  color: #7c5cff;
+}
+.search-icon:hover {
+  color: #6a4ba3;
+  transform: scale(1.1);
+  transition: all 0.3s ease;
+}

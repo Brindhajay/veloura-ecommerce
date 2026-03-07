@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+
+  font-family: "Segoe UI", sans-serif;
+
+  background: linear-gradient(135deg, #e0f7ff, #f3e8ff, #fff5e6);
+
+  min-height: 100vh;
+}
+
+a {
+  text-decoration: none;
+}
