@@ -1,9 +1,14 @@
 .home-container {
-  padding: 40px;
+  padding: 20px;
   background: linear-gradient(180deg, #faf8ff, #f3edff);
   font-family: Poppins, sans-serif;
   max-width: 100%;
   overflow-x: hidden;
+}
+@media (max-width: 768px) {
+  .home-container {
+    padding: 10px;
+  }
 }
 
 /* Banner */
@@ -32,15 +37,29 @@
   justify-content: space-between;
   background: linear-gradient(135deg, #f6f0ff, #ffffff);
   border-radius: 30px;
-  padding: 60px;
+  padding: 40px;
   margin-bottom: 70px;
   box-shadow: 0 20px 40px rgba(0, 0, 0, 0.08);
+  width: 100%;
+  max-width: 100%;
+}
+@media (max-width: 768px) {
+  .hero {
+    flex-direction: column;
+    padding: 20px;
+  }
 }
 
 .hero-model {
   height: 420px;
   border-radius: 20px;
   transition: transform 0.4s ease;
+}
+@media (max-width: 768px) {
+  .hero-model {
+    width: 100%;
+    height: auto;
+  }
 }
 
 .hero-model:hover {
@@ -89,7 +108,7 @@
 
 .categories-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  grid-template-columns: repeat(4, 1fr);
   gap: 30px;
 }
 
@@ -163,7 +182,7 @@
 
 .product-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  grid-template-columns: repeat(4, 1fr);
   gap: 30px;
   margin-top: 35px;
 }

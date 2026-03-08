@@ -5,89 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="91541cad-ea93-4605-9d3b-f4a1d0fc000b" name="Changes" comment="Upload Screenshots">
-      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/assets/aquatic-rtsyLgTZ.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/assets/citrus-LZWDz7zr.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/assets/floral-YcsqsvM_.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/assets/fresh-DztWFDUN.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/assets/fruity-CYRGaeWY.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/assets/hero-female-C_X6zvYE.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/assets/hero-male-Cq3TIs7H.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/assets/index-BER8o2BA.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/assets/index-jCvMyhIq.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/assets/oriental-Bk5EQzra.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/assets/perfume-collection-C8gg2k91.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/assets/perfume-collection2-DOt_uo6R.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/assets/sweet-CHCyRF-c.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/assets/veloura-logo-BOzpt0WH.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/assets/woody-CBSn4hNx.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/perfumes/aquatic/aqua-fresh.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/perfumes/aquatic/blue-lagoon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/perfumes/aquatic/crystal-water.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/perfumes/aquatic/desktop.ini" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/perfumes/aquatic/marine-whisper.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/perfumes/aquatic/ocean-mist.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/perfumes/aquatic/ocean-pearl.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/perfumes/aquatic/water-essence.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/perfumes/citrus/bergamot-spark.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/perfumes/citrus/citrus-bloom.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/perfumes/citrus/citrus-sunshine.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/perfumes/citrus/desktop.ini" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/perfumes/citrus/grapefruit-glow.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/perfumes/citrus/lemon-breeze.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/perfumes/citrus/lime-splash.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/perfumes/citrus/orange-radiance.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/perfumes/floral/cherry-blossom.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/perfumes/floral/desktop.ini" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/perfumes/floral/gardenia-glow.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/perfumes/floral/jasmine-aura.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/perfumes/floral/lavender-dream.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/perfumes/floral/lily-whisper.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/perfumes/floral/orchid-elegance.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/perfumes/floral/peony-mist.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/perfumes/floral/rose-bloom.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/perfumes/fresh/blue-breeze.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/perfumes/fresh/cool-meadow.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/perfumes/fresh/desktop.ini" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/perfumes/fresh/fresh-linen.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/perfumes/fresh/green-whisper.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/perfumes/fresh/morning-dew.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/perfumes/fresh/sky-fresh.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/perfumes/fresh/veloura-aura.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/perfumes/fruity/apple-delight.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/perfumes/fruity/berry-fusion.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/perfumes/fruity/cherry-sweet.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/perfumes/fruity/desktop.ini" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/perfumes/fruity/peach-paradise.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/perfumes/fruity/pomegranate-glow.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/perfumes/fruity/raspberry-charm.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/perfumes/fruity/strawberry-bliss.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/perfumes/fruity/tropical-splash.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/perfumes/oriental/amber-night.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/perfumes/oriental/desert-amber.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/perfumes/oriental/desktop.ini" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/perfumes/oriental/exotic-resin.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/perfumes/oriental/golden-saffron.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/perfumes/oriental/mystic-saffron.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/perfumes/oriental/mystic-spice.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/perfumes/oriental/oriental-silk.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/perfumes/oriental/velvet-amber.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/perfumes/sweet/caramel-kiss.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/perfumes/sweet/cocoa-delight.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/perfumes/sweet/desktop.ini" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/perfumes/sweet/golden-dessert.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/perfumes/sweet/honey-glow.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/perfumes/sweet/maple-sugar.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/perfumes/sweet/sweet-velvet.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/perfumes/sweet/vanilla-dream.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/perfumes/woody/amber-wood.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/perfumes/woody/ceder-noir.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/perfumes/woody/dark-timber.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/perfumes/woody/desktop.ini" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/perfumes/woody/forest-musk.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/perfumes/woody/sandalwood-essence.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/perfumes/woody/velvet-oud.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/vite.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/styles/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/styles/app.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/styles/home.css" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/styles/home.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/styles/navbar.css" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/styles/navbar.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -234,7 +157,8 @@
       <workItem from="1772745800099" duration="2354000" />
       <workItem from="1772789264823" duration="23245000" />
       <workItem from="1772874515621" duration="8739000" />
-      <workItem from="1772906264079" duration="12467000" />
+      <workItem from="1772906264079" duration="14199000" />
+      <workItem from="1772979436468" duration="2785000" />
     </task>
     <task id="LOCAL-00001" summary="add dockerfile">
       <option name="closed" value="true" />
