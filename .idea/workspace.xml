@@ -4,13 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="91541cad-ea93-4605-9d3b-f4a1d0fc000b" name="Changes" comment="Upload Screenshots">
+    <list default="true" id="91541cad-ea93-4605-9d3b-f4a1d0fc000b" name="Changes" comment="Mobile responsiveness fix...">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/styles/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/styles/app.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/styles/home.css" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/styles/home.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/styles/navbar.css" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/styles/navbar.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -158,7 +153,7 @@
       <workItem from="1772789264823" duration="23245000" />
       <workItem from="1772874515621" duration="8739000" />
       <workItem from="1772906264079" duration="14199000" />
-      <workItem from="1772979436468" duration="2785000" />
+      <workItem from="1772979436468" duration="4902000" />
     </task>
     <task id="LOCAL-00001" summary="add dockerfile">
       <option name="closed" value="true" />
@@ -312,7 +307,31 @@
       <option name="project" value="LOCAL" />
       <updated>1772926332489</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Upload Screenshots">
+      <option name="closed" value="true" />
+      <created>1772983369295</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1772983369295</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Upload Screenshots">
+      <option name="closed" value="true" />
+      <created>1772983381647</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1772983381647</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Mobile responsiveness fix...">
+      <option name="closed" value="true" />
+      <created>1772983452714</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1772983452714</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -332,7 +351,8 @@
     <MESSAGE value="UPDATE FRONTEND BUILD" />
     <MESSAGE value="Move backend files into backend folder" />
     <MESSAGE value="Upload Screenshots" />
-    <option name="LAST_COMMIT_MESSAGE" value="Upload Screenshots" />
+    <MESSAGE value="Mobile responsiveness fix..." />
+    <option name="LAST_COMMIT_MESSAGE" value="Mobile responsiveness fix..." />
   </component>
   <component name="github-copilot-workspace">
     <instructionFileLocations>
