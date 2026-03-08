@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="91541cad-ea93-4605-9d3b-f4a1d0fc000b" name="Changes" comment="Upload Screenshots">
+      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/assets/aquatic-rtsyLgTZ.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/assets/citrus-LZWDz7zr.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/assets/floral-YcsqsvM_.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/assets/fresh-DztWFDUN.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/assets/fruity-CYRGaeWY.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/assets/hero-female-C_X6zvYE.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/assets/hero-male-Cq3TIs7H.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/assets/index-BER8o2BA.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/assets/index-jCvMyhIq.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/assets/oriental-Bk5EQzra.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/assets/perfume-collection-C8gg2k91.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/assets/perfume-collection2-DOt_uo6R.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/assets/sweet-CHCyRF-c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/assets/veloura-logo-BOzpt0WH.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/assets/woody-CBSn4hNx.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/perfumes/aquatic/aqua-fresh.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/perfumes/aquatic/blue-lagoon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/perfumes/aquatic/crystal-water.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/perfumes/aquatic/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/perfumes/aquatic/marine-whisper.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/perfumes/aquatic/ocean-mist.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/perfumes/aquatic/ocean-pearl.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/perfumes/aquatic/water-essence.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/perfumes/citrus/bergamot-spark.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/perfumes/citrus/citrus-bloom.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/perfumes/citrus/citrus-sunshine.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/perfumes/citrus/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/perfumes/citrus/grapefruit-glow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/perfumes/citrus/lemon-breeze.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/perfumes/citrus/lime-splash.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/perfumes/citrus/orange-radiance.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/perfumes/floral/cherry-blossom.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/perfumes/floral/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/perfumes/floral/gardenia-glow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/perfumes/floral/jasmine-aura.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/perfumes/floral/lavender-dream.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/perfumes/floral/lily-whisper.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/perfumes/floral/orchid-elegance.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/perfumes/floral/peony-mist.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/perfumes/floral/rose-bloom.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/perfumes/fresh/blue-breeze.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/perfumes/fresh/cool-meadow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/perfumes/fresh/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/perfumes/fresh/fresh-linen.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/perfumes/fresh/green-whisper.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/perfumes/fresh/morning-dew.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/perfumes/fresh/sky-fresh.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/perfumes/fresh/veloura-aura.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/perfumes/fruity/apple-delight.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/perfumes/fruity/berry-fusion.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/perfumes/fruity/cherry-sweet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/perfumes/fruity/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/perfumes/fruity/peach-paradise.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/perfumes/fruity/pomegranate-glow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/perfumes/fruity/raspberry-charm.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/perfumes/fruity/strawberry-bliss.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/perfumes/fruity/tropical-splash.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/perfumes/oriental/amber-night.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/perfumes/oriental/desert-amber.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/perfumes/oriental/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/perfumes/oriental/exotic-resin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/perfumes/oriental/golden-saffron.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/perfumes/oriental/mystic-saffron.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/perfumes/oriental/mystic-spice.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/perfumes/oriental/oriental-silk.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/perfumes/oriental/velvet-amber.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/perfumes/sweet/caramel-kiss.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/perfumes/sweet/cocoa-delight.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/perfumes/sweet/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/perfumes/sweet/golden-dessert.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/perfumes/sweet/honey-glow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/perfumes/sweet/maple-sugar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/perfumes/sweet/sweet-velvet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/perfumes/sweet/vanilla-dream.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/perfumes/woody/amber-wood.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/perfumes/woody/ceder-noir.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/perfumes/woody/dark-timber.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/perfumes/woody/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/perfumes/woody/forest-musk.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/perfumes/woody/sandalwood-essence.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/perfumes/woody/velvet-oud.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/static/vite.svg" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Brindhajay&quot;
+  }
+}</component>
+  <component name="GitToolBoxStore">
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1772826512" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="master" />
+                    <option name="lastUsedInstant" value="1772826511" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
+  </component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Brindhajay/veloura-ecommerce.git&quot;,
+    &quot;accountId&quot;: &quot;f89bd2a6-0948-4799-8a9a-eb5e64fdc324&quot;
+  }
+}</component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="3ARdKExdV5sR4puXqOOJ1jfNaTy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;,
+    &quot;Spring Boot.VelouraApplication.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Program Files/veloura/src/main/resources/static&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Program Files\veloura\src\main\resources\static" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Program Files\veloura\backend" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="VelouraApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="veloura" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.veloura.VelouraApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.31033.145" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.31033.145" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="91541cad-ea93-4605-9d3b-f4a1d0fc000b" name="Changes" comment="" />
+      <created>1772559250887</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1772559250887</updated>
+      <workItem from="1772559252225" duration="21516000" />
+      <workItem from="1772613240927" duration="1939000" />
+      <workItem from="1772648192350" duration="9127000" />
+      <workItem from="1772702178528" duration="7871000" />
+      <workItem from="1772735088901" duration="591000" />
+      <workItem from="1772735899596" duration="5164000" />
+      <workItem from="1772745800099" duration="2354000" />
+      <workItem from="1772789264823" duration="23245000" />
+      <workItem from="1772874515621" duration="8739000" />
+      <workItem from="1772906264079" duration="12467000" />
+    </task>
+    <task id="LOCAL-00001" summary="add dockerfile">
+      <option name="closed" value="true" />
+      <created>1772829344186</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1772829344186</updated>
+    </task>
+    <task id="LOCAL-00002" summary="CONNECT RAILWAY MYSQL">
+      <option name="closed" value="true" />
+      <created>1772831826736</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1772831826736</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Configure Railway Environment Variables">
+      <option name="closed" value="true" />
+      <created>1772876534955</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1772876534955</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Configure Railway Environment Variables">
+      <option name="closed" value="true" />
+      <created>1772879280633</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1772879280633</updated>
+    </task>
+    <task id="LOCAL-00005" summary="FIX RAILWAY MYSQL CONNECTION">
+      <option name="closed" value="true" />
+      <created>1772880141969</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1772880141969</updated>
+    </task>
+    <task id="LOCAL-00006" summary="FIX RAILWAY PORT CONFIGURATION">
+      <option name="closed" value="true" />
+      <created>1772880557849</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1772880557849</updated>
+    </task>
+    <task id="LOCAL-00007" summary="FIX DOCKER BUILD ISSUE">
+      <option name="closed" value="true" />
+      <created>1772882644231</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1772882644231</updated>
+    </task>
+    <task id="LOCAL-00008" summary="FIX DOCKER BUILD ISSUE for deployment">
+      <option name="closed" value="true" />
+      <created>1772883345247</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1772883345248</updated>
+    </task>
+    <task id="LOCAL-00009" summary="FIX RENDER PORT BINDING">
+      <option name="closed" value="true" />
+      <created>1772883901206</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1772883901206</updated>
+    </task>
+    <task id="LOCAL-00010" summary="FIX DOCKER PORT">
+      <option name="closed" value="true" />
+      <created>1772884712246</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1772884712246</updated>
+    </task>
+    <task id="LOCAL-00011" summary="FIX PORT">
+      <option name="closed" value="true" />
+      <created>1772885076849</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1772885076849</updated>
+    </task>
+    <task id="LOCAL-00012" summary="UPDATE FRONTEND BUILD">
+      <option name="closed" value="true" />
+      <created>1772909353944</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1772909353944</updated>
+    </task>
+    <task id="LOCAL-00013" summary="UPDATE FRONTEND BUILD">
+      <option name="closed" value="true" />
+      <created>1772911617150</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1772911617150</updated>
+    </task>
+    <task id="LOCAL-00014" summary="UPDATE FRONTEND BUILD">
+      <option name="closed" value="true" />
+      <created>1772911772952</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1772911772952</updated>
+    </task>
+    <task id="LOCAL-00015" summary="UPDATE FRONTEND BUILD">
+      <option name="closed" value="true" />
+      <created>1772920943143</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1772920943143</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Move backend files into backend folder">
+      <option name="closed" value="true" />
+      <created>1772921376958</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1772921376958</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Move backend files into backend folder">
+      <option name="closed" value="true" />
+      <created>1772921485788</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1772921485788</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Upload Screenshots">
+      <option name="closed" value="true" />
+      <created>1772926326056</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1772926326056</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Upload Screenshots">
+      <option name="closed" value="true" />
+      <created>1772926332489</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1772926332489</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add dockerfile" />
+    <MESSAGE value="CONNECT RAILWAY MYSQL" />
+    <MESSAGE value="Configure Railway Environment Variables" />
+    <MESSAGE value="FIX RAILWAY MYSQL CONNECTION" />
+    <MESSAGE value="FIX RAILWAY PORT CONFIGURATION" />
+    <MESSAGE value="FIX DOCKER BUILD ISSUE" />
+    <MESSAGE value="FIX DOCKER BUILD ISSUE for deployment" />
+    <MESSAGE value="FIX RENDER PORT BINDING" />
+    <MESSAGE value="FIX DOCKER PORT" />
+    <MESSAGE value="FIX PORT" />
+    <MESSAGE value="UPDATE FRONTEND BUILD" />
+    <MESSAGE value="Move backend files into backend folder" />
+    <MESSAGE value="Upload Screenshots" />
+    <option name="LAST_COMMIT_MESSAGE" value="Upload Screenshots" />
+  </component>
+  <component name="github-copilot-workspace">
+    <instructionFileLocations>
+      <option value=".github/instructions" />
+    </instructionFileLocations>
+    <promptFileLocations>
+      <option value=".github/prompts" />
+    </promptFileLocations>
+  </component>
+</project>
