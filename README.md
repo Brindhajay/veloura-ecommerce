@@ -169,34 +169,34 @@ The application uses JWT (JSON Web Tokens) for secure authentication.
 
 ### Authentication
 
-POST /auth/register
-POST /auth/login
+POST /auth/register  
+POST /auth/login  
 
 ---
 
 ### Products
 
-GET /perfumes
-GET /perfumes/{id}
-GET /perfumes/search?name={name}
-GET /perfumes/category/{categoryId}
+GET /perfumes  
+GET /perfumes/{id}  
+GET /perfumes/search?name={name}  
+GET /perfumes/category/{categoryId}  
 
 ---
 
 ### Cart
 
-GET /cart
-POST /cart/add
-DELETE /cart/remove/{productId}
-PUT /cart/update
+GET /cart  
+POST /cart/add  
+DELETE /cart/remove/{productId}  
+PUT /cart/update  
 
 ---
 
 ### Orders
 
-POST /orders/place
-GET /orders
-GET /orders/{orderId}
+POST /orders/place  
+GET /orders  
+GET /orders/{orderId}  
 
 ---
 
@@ -210,17 +210,17 @@ git clone https://github.com/Brindhajay/veloura-ecommerce
 
 ### Backend Setup
 
-cd backend
-mvn clean install
-mvn spring-boot:run
+cd backend  
+mvn clean install  
+mvn spring-boot:run  
 
 ---
 
 ### Frontend Setup
 
-cd frontend
-npm install
-npm run dev
+cd frontend  
+npm install  
+npm run dev  
 
 ---
 
@@ -241,9 +241,9 @@ docker run -p 8080:8080 veloura-app
 1. Create MySQL database
 2. Configure credentials in "application.properties"
 
-spring.datasource.url=jdbc:mysql://localhost:3306/veloura
-spring.datasource.username=your_username
-spring.datasource.password=your_password
+spring.datasource.url=jdbc:mysql://localhost:3306/veloura  
+spring.datasource.username=your_username  
+spring.datasource.password=your_password  
 
 3. Start the backend server.
 
